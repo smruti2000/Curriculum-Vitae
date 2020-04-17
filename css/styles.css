@@ -1,0 +1,105 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+
+}
+
+h1{
+	font-size: 5.625rem;
+	margin: 50px auto 0 auto;
+	line-height: 1;
+	font-family: 'Sacramento', cursive;
+	color: #11999E;
+}
+
+h2{
+	font-size: 2.5rem;
+	color: #11999E;
+	font-weight: normal;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;	
+}
+
+
+.pro{
+	text-decoration: underline;
+	   
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+
+.top{
+	background-color: #e4f9f5;	
+	position: relative;
+	padding-top: 110px;
+}
+
+.top-cloud{
+	position:absolute;
+	top: 20px;
+	right: 250px;
+	width: 200px;
+}
+
+.bottom-cloud{
+	position:absolute;
+	top: 300px;
+	left: 200px;
+	width: 200px;
+}
+
+
+.middle{
+
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.profile{
+	height: 25%;
+	width: 25%;
+	margin-top: 40px;
+}
+
+.skill-1{
+	height: 200px;
+	width: 50%;
+	float: left;
+	margin-right: 30px;
+}
+
+.skill-2{
+	width: 40%;
+	height:40%;
+	float: right;
+	margin-left: 30px;
+}
+
+.buttom{
+	background-color: #11999E;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 50px 0 20px;
+    margin-top: 100px;	
+}
+
+hr{
+	width: 5%;
+	border-style: dotted none none;
+	border-width: 5px;
+	border-color: gray;
+
+}
+
+.foot-link{
+	color: #11999E;
+}
